@@ -41,7 +41,7 @@ Oráculo é um assistente que permite aos usuários interagir com diferentes tip
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/oraculo.git
+   git@github.com:FabriciosPinheiro/oraculo.git
    cd oraculo
 
 2. Execute
