@@ -3,9 +3,11 @@
 ## 📝 Descrição
 
 Oráculo é um assistente que permite aos usuários interagir com diferentes tipos de documentos usando modelos de linguagem da OpenAI. O aplicativo funciona como um assistente inteligente que pode responder perguntas e fornecer insights baseados no conteúdo dos documentos carregados.
-
-![Descrição da imagem](assets\arquivos.png)
-![Descrição da imagem](assets\modelos.png)
+ 
+<p align="center">
+  <img alt="Carregamento dos Arquivos" src="assets/arquivos.png" width="100%">
+  <img alt="Carregamento dos Modelos" src="assets/modelos.png" width="100%">
+</p>
 
 ## ✨ Funcionalidades
 
